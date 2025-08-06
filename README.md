@@ -6,6 +6,7 @@
 ---
 
 ## 🔧 Tecnologias que uso e estudo:
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
@@ -24,7 +25,7 @@
 
 ## 🌱 Atualmente aprendendo:
 - Node.js & Express
-- Python
+- Python para automação e bots
 - Banco de Dados (PostgreSQL, MongoDB, SQLite)
 - APIs REST e autenticação JWT
 
